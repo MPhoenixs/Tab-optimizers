@@ -1,4 +1,4 @@
-<img width="469" height="638" alt="image" src="https://github.com/user-attachments/assets/df7629f5-bef0-4cd4-9b49-737b76fc9f9a" /># ⚡ Tab Optimizer – Chrome Extension
+⚡ Tab Optimizer – Chrome Extension
 
 A Chrome extension that helps users identify and manage resource-heavy tabs to improve browser performance.
 
