@@ -1,0 +1,9 @@
+{
+  "name": "com.tab.optimizer",
+  "description": "Tab Optimizer Native Host",
+  "path": "D:\\tab extension\\native\\tab_host.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://kechlampoogjbpgddffildjfpoemeomd/"
+  ]
+}

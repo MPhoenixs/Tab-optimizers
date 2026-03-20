@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 10px;
+  width: 360px;
+  font-family: 'Segoe UI', sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h2 {
+  font-size: 16px;
+  margin: 0;
+}
+
+/* Button */
+button {
+  background: #2563eb;
+  border: none;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+/* Summary */
+.summary {
+  margin: 10px 0;
+  padding: 10px;
+  background: #1e293b;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+/* Tabs container */
+.tabs {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+/* Tab card */
+.tab {
+  background: #1e293b;
+  margin-bottom: 8px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Title */
+.tab-title {
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* Score */
+.score {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+/* Buttons */
+.actions button {
+  margin-right: 5px;
+  font-size: 11px;
+}
+
+/* Severity colors */
+.high {
+  border-left: 4px solid #ef4444;
+}
+
+.medium {
+  border-left: 4px solid #f59e0b;
+}
+
+.low {
+  border-left: 4px solid #22c55e;
+}
