@@ -110,7 +110,8 @@ tab-optimizer/
 
 ## 📸 Screenshots
 
-<img width="466" height="638" alt="image" src="https://github.com/user-attachments/assets/d5d9aefa-b4d5-46a1-b35c-ad9444e4ee3c" />
+<img width="471" height="642" alt="image" src="https://github.com/user-attachments/assets/b5e12a87-adfe-4950-8d52-b3994315e2fd" />
+
 
 
 ## 👨‍💻 Author
